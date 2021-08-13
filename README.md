@@ -1,1 +1,1 @@
-# House-Prediction-in-Bengaluru-using-ML-Algorithm
+# House-Prediction-in-Bengaluru-using-ML-Algorithm(Linear Regression)
